@@ -1,0 +1,16 @@
+{
+    "name": "edp-ext",
+    "description": "Enterprise Develop Platform Extension",
+    "version": "0.1.0",
+    "contributors": [
+        { "name": "leeight", "email" : "leeight@gmail.com" }
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "~1.9",
+        "should": "~1.2"
+    },
+    "repository": "git://github.com/leeight/edp-ext",
+    "main": "./src/main.js"
+}
